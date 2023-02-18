@@ -44,8 +44,7 @@ header {
 
 section {
   padding: 5rem 1.25rem 6rem;
-  background-color: #fff;
-  background-image: url("images/header-shapes\ mobile.png");
+  background-color: #f7f7f9;
   background-repeat: no-repeat;
   background-position: inherit;
   background-size: 100% 100%;
@@ -69,7 +68,7 @@ section {
 }
 
 #about {
-  border-top-right-radius: 80px;
+  border-top-right-radius: 114px;
 }
 
 .section-head p {
@@ -85,7 +84,7 @@ section {
 h2 {
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 32px;
   line-height: 52px;
   display: flex;
   align-items: center;
@@ -124,8 +123,8 @@ li {
 }
 
 .list-items img {
-  height: 15px;
-  width: 15px;
+  height: 20px;
+  width: 20px;
 }
 
 .list-items li {
@@ -266,6 +265,7 @@ button:active {
   font-weight: 700;
   line-height: 52px;
   color: #172b4d;
+  margin-top: 114px;
 }
 
 .para-text {
@@ -293,7 +293,7 @@ ul.list-items.skill-items {
 }
 
 .skill-text {
-  font-size: px;
+  font-size: 15px;
   color: #253858;
   font-weight: 500;
 }
