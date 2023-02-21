@@ -684,8 +684,10 @@ form {
   width: 134px;
   height: 5px;
   align-self: center;
-  margin-top: 32px;
-  margin-bottom: 0;
+  margin-top: 40px;
+  margin: 0;
+  padding: 0;
+  
 }
 
 .contact-form {
@@ -696,7 +698,7 @@ form {
   background-color: #6070ff;
   background-repeat: no-repeat, no-repeat;
   background-size: auto auto;
-  background-position: center center, center center;
+  background-position: 200px -20px, center center;
   border-top-left-radius: 80px;
   margin-bottom: 0%;
 }
@@ -720,6 +722,7 @@ form {
   border-radius: 8px;
   padding: 15px 38px 15px 16px;
   font-family: 'Poppins', sans-serif;
+  margin-bottom: 0;
 }
 
 #btn {
@@ -729,9 +732,11 @@ form {
   border-radius: 8px;
   color: #6070ff;
   padding: 12px 16px;
+  margin-top: 1px;
+  margin-bottom: 10px;
 }
 
 .contact-me {
-  font-family: sans-serif, 'Poppins';
-  margin-bottom: 0;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 42px;
 }
