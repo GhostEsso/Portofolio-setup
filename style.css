@@ -223,12 +223,13 @@ ul {
   gap: 8px;
   margin: 12px 0;
   justify-content: flex-start;
-  display: flex;
+  display: block;
 }
 
 .project-skills li {
   padding: 4px 12px;
   border-radius: 8px;
+  float: right;
   background-color: #ebebff;
   font-size: 12px;
   color: #0018f5;
