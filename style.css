@@ -681,3 +681,14 @@ span {
     border-radius: 0;
   }
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-shape {
+  width: 134px;
+  height: 5px;
+  align-self: center;
+}
