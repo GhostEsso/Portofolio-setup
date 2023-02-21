@@ -686,6 +686,10 @@ form {
   align-self: center;
   margin-top: 40px;
   padding: 0;
+  position: absolute;
+  bottom: 4px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .contact-form {
@@ -699,6 +703,7 @@ form {
   background-position: 200px -20px, center center;
   border-top-left-radius: 80px;
   margin-bottom: 0%;
+  position: fixed;
 }
 
 .input-1,
