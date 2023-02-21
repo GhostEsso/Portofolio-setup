@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -450,7 +450,7 @@ span {
   background-color: #6070ff;
 }
 
-.hamburger {
+.amburger {
   display: block;
 }
 
@@ -530,8 +530,6 @@ span {
     left: -100%;
     margin: 16px 0;
   }
-
-
 
   .minor-container {
     width: 90%;
@@ -703,8 +701,6 @@ form {
   margin-bottom: 0%;
 }
 
-
-
 .input-1, .input-2 {
   width: 327px;
   height: 48px;
@@ -713,7 +709,7 @@ form {
   background-color: white;
   padding: 15px 38px 15px 16px;
   font-size: 17px;
-  color: #172B4D;;
+  color: #172b4d;
 }
 
 .input-3 {
@@ -722,7 +718,7 @@ form {
   border: 1px solid #cfd8dc;
   border-radius: 8px;
   padding: 15px 38px 15px 16px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
 }
 
 #btn {
