@@ -685,7 +685,7 @@ form {
   height: 5px;
   align-self: center;
   margin-top: 32px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .contact-form {
@@ -701,7 +701,8 @@ form {
   margin-bottom: 0%;
 }
 
-.input-1, .input-2 {
+.input-1,
+.input-2 {
   width: 327px;
   height: 48px;
   border-radius: 8px;
@@ -731,6 +732,6 @@ form {
 }
 
 .contact-me {
-  font-family: 'Poppins' sans-serif;
-  margin-bottom: 0px;
+  font-family: sans-serif, 'Poppins';
+  margin-bottom: 0;
 }
