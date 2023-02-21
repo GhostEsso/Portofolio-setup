@@ -685,10 +685,27 @@ span {
 form {
   display: flex;
   flex-direction: column;
+  gap: 20px;
 }
 
 .footer-shape {
   width: 134px;
   height: 5px;
   align-self: center;
+}
+
+.contact-form {
+  background-image: url("images/Contact.png");
+}
+
+.form-intro h2, p {
+  color: white;
+}
+
+.input-1, .input-2 {
+  width: 327px;
+  height: 48px;
+  border-radius: 8px;
+  border: 1px solid #cfd8dc;
+  background-color: white;
 }
