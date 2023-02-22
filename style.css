@@ -702,7 +702,7 @@ form {
   background-size: auto auto;
   background-position: 200px -20px, center center;
   border-top-left-radius: 80px;
-  margin-bottom: 0%;
+  margin-bottom: 0;
   position: fixed;
 }
 
