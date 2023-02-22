@@ -687,7 +687,8 @@ form {
   margin-top: 40px;
   padding: 0;
   position: absolute;
-  bottom: 4px;
+  top: 92%;
+  margin-top: -2.5px;
   left: 50%;
   transform: translateX(-50%);
 }
@@ -703,7 +704,7 @@ form {
   background-position: 200px -20px, center center;
   border-top-left-radius: 80px;
   margin-bottom: 0;
-  position: fixed;
+  position: relative;
 }
 
 .input-1,
