@@ -170,7 +170,7 @@ a {
   border-radius: 16px;
   padding: 16px;
   background-color: #fff;
-  margin: 17px;
+  margin-bottom: 5%;
 }
 
 .project-container {
@@ -618,6 +618,10 @@ span {
     padding-right: 50px;
   }
 
+  .lang.flex.column {
+    margin-top: 12%;
+  }
+
   section.contact-form {
     display: grid;
     grid-template-columns: 1fr;
@@ -759,7 +763,6 @@ form {
     align-items: center;
     padding-left: 10px;
     padding-right: 10px;
-    margin-top: 26px;
     height: 10vh;
   }
 
@@ -780,6 +783,7 @@ form {
     position: relative;
     margin-top: 0;
     background-color: white;
+    margin-bottom: 30px;
   }
 
   .major-container {
@@ -826,7 +830,7 @@ form {
   .self-container p {
     padding: 10px;
     padding-bottom: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     margin-left: -12%;
   }
 
@@ -837,8 +841,8 @@ form {
 
   ul.list-items {
     list-style: none;
-    margin: -25px;
-    padding-top: 10px;
+    margin: -15px;
+    padding-top: 1px;
   }
 
   ul.list-items li {
@@ -1008,5 +1012,7 @@ form {
     margin-top: 10px;
     align-self: center;
     margin-right: 21%;
+    position: relative;
+    margin-bottom: 15%;
   }
 }
