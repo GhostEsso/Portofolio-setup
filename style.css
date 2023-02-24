@@ -779,10 +779,6 @@ form {
     text-decoration: none;
   }
 
-  .navnav-menu li:hover {
-    border-bottom: 2px solid #003bd1;
-  }
-
   .first-section {
     position: relative;
     margin-top: 0;
@@ -852,6 +848,10 @@ form {
   ul.list-items li {
     margin: -25px;
     padding: 0;
+  }
+
+  .navnav-menu li:hover {
+    border-bottom: 2px solid #003bd1;
   }
 
   ul.list-items li a {
