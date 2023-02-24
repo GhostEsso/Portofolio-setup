@@ -1008,6 +1008,16 @@ form {
     color: #172b4d;
   }
 
+  .input-1::placeholder,
+  .input-2::placeholder {
+    transition: transform 0.2s ease-in-out;
+  }
+
+  .input-1:hover::placeholder,
+  .input-2:hover::placeholder {
+    transform: translateX(5px);
+  }
+
   .input-3 {
     width: 447px;
     height: 170px;
