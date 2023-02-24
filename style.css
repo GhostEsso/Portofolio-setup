@@ -732,6 +732,16 @@ form {
   margin-bottom: 0;
 }
 
+.input-1::placeholder,
+.input-2::placeholder {
+  transition: transform 0.2s ease-in-out;
+}
+
+.input-1:hover::placeholder,
+.input-2:hover::placeholder {
+  transform: translateX(5px);
+}
+
 #btn {
   width: 142px;
   height: 48px;
