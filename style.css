@@ -850,6 +850,10 @@ form {
     padding: 0;
   }
 
+  .navnav-menu li:hover {
+    border-bottom: 2px solid #003bd1;
+  }
+
   ul.list-items li a {
     display: block;
     padding: 10px; /* ajouter un espacement intérieur si nécessaire */
