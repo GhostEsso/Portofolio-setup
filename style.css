@@ -818,6 +818,13 @@ form {
     padding: 0;
   }
 
+  .project-meta p {
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 24px;
+    color: #344563;
+  }
+
   .section-head p {
     margin-bottom: 10px;
     font-size: 20px;
@@ -855,9 +862,30 @@ form {
     padding-top: 1px;
   }
 
+  .project-skills li {
+    transition: transform 0.5s ease;
+  }
+
   ul.list-items li {
     margin: -25px;
     padding: 0;
+  }
+
+  .section-head h1,
+  .section-head p {
+    transition: transform 0.5s ease;
+  }
+
+  .section-head h1:hover {
+    transform: translateX(10px);
+  }
+
+  .section-head p:hover {
+    transform: translateX(15px);
+  }
+
+  .project-skills li:hover {
+    transform: scale(1.2);
   }
 
   .navnav-menu li:hover {
@@ -910,34 +938,14 @@ form {
     margin-bottom: 10;
   }
 
-  .section-head h1, .section-head p {
-    transition: transform 0.5s ease;
-  }
-  
-  .section-head h1:hover {
-    transform: translateX(10px);
-  }
-  
-  .section-head p:hover {
-    transform: translateX(15px);
-  }
-
-  .project-skills li {
-    transition: transform 0.5s ease;
-  }
-  
-  .project-skills li:hover {
-    transform: scale(1.2);
-  }
-  
   .lang-list {
     transition: transform 0.5s ease;
   }
-  
+
   .lang-list:hover {
     transform: scale(1.1);
   }
-  
+
   /* deuxième section */
 
   .project-container {
@@ -951,13 +959,6 @@ form {
     line-height: 52px;
     font-weight: 700;
     color: #091e42;
-  }
-
-  .project-meta p {
-    font-weight: 500px;
-    font-size: 18px;
-    line-height: 24px;
-    color: #344563;
   }
 
   .project-note {
