@@ -660,7 +660,7 @@ span {
   }
 
   .contact-me p:hover {
-    transform: translate(42px, 8px);
+    transform: translate(8px);
   }
 
   .contact-me-form .form {
@@ -910,6 +910,34 @@ form {
     margin-bottom: 10;
   }
 
+  .section-head h1, .section-head p {
+    transition: transform 0.5s ease;
+  }
+  
+  .section-head h1:hover {
+    transform: translateX(10px);
+  }
+  
+  .section-head p:hover {
+    transform: translateX(15px);
+  }
+
+  .project-skills li {
+    transition: transform 0.5s ease;
+  }
+  
+  .project-skills li:hover {
+    transform: scale(1.2);
+  }
+  
+  .lang-list {
+    transition: transform 0.5s ease;
+  }
+  
+  .lang-list:hover {
+    transform: scale(1.1);
+  }
+  
   /* deuxième section */
 
   .project-container {
