@@ -183,9 +183,9 @@ AUTHORS
 
 ## 👥 Authors: GhostEsso
 
-- GitHub: [@githubhandle](https://github.com/GhostEsso)
-- Twitter: [@twitterhandle](https://twitter.com/TambanaEssohana)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/essohanam-tambana-62aa081a1/?originalSubdomain=tg)
+- GitHub: [@GhostEsso](https://github.com/GhostEsso)
+- Twitter: [@TambanaEssohana](https://twitter.com/TambanaEssohana)
+- LinkedIn: [@TambanaEssoahan](https://www.linkedin.com/in/essohanam-tambana-62aa081a1/?originalSubdomain=tg)
 
 
 
@@ -203,6 +203,9 @@ CONTRIBUTING
 
 ## 🤝 Contributing <a name="contributing"></a>
 
+- Github: [@Abbas_sDev](https://github.com/AbbasSarwar)
+- Twitter: [@Abbas_sDev](https://twitter.com/Abbas_sDev)
+- LinkedIn: [Abbas Sarwar](https://www.linkedin.com/in/abbas-sarwar-4a0b16257/)
 Contributions are welcome and will be appreciated! If you would like to contribute to this project, please follow these steps:
 
 Fork this project.
@@ -236,11 +239,10 @@ ACKNOWLEDGEMENTS <a name="acknowledgements"></a>
 
 ## 🙏 Acknowledgments 
 
-I would like to thank Amarachi Dimkpa, Jonathan Kayemba for their excellent help to move through this project. Their feedback greatly improved the quality and clarity of my project documentation.
+I would like to thank Abbas Sarwar, for his excellent help to move through this project. Their feedback greatly improved the quality and clarity of my project documentation.
 
-Their contribution and support have been of great help to me throughout the development of this project. I am grateful for his time and expertise.
+His contribution and support have been of great help to me throughout the development of this project. I am grateful for his time and expertise.
 
-Thanks again, Amarachi Dimkpa, Jonathan Kayemba,
 
 I am grateful for any input and support for this project. If you have contributed to the project and are not on this list, please contact me so I can add you.
 
